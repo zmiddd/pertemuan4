@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
   double _inputUser = 0;
   double _result = 0;
 
-  String _selectedDropdown = "Silahkan Pilih Suhu";
+  String _selectedDropdown = "Pilih Suhu";
   final _listSatuanSuhu = ["Silahkan Pilih Suhu", "Kelvin", "Reamur"];
   List<String> _listHasil = [];
   TextEditingController etInput = TextEditingController();
